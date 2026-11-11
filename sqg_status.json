@@ -1,0 +1,23 @@
+{
+  "result": "NOT_VALIDATED",
+  "reason": "The directly tracked fields were computed, but rectangular common spatial support failed the predeclared SQG comparison gates. No unsupported tracking-SQG correlation is reported.",
+  "dense_patch_common_rectangle_km": [
+    1260,
+    630
+  ],
+  "minimum_required_rectangle_nodes": 25,
+  "dense_grid_km": 45,
+  "mosaic_common_rectangle_km": [
+    1485,
+    810
+  ],
+  "mosaic_grid_km": 135,
+  "mosaic_after_closing_rectangle_km": [
+    1620,
+    810
+  ],
+  "mosaic_after_closing_candidate_coverage": 0.8888888888888888,
+  "required_coverage": 0.95,
+  "interpretation": "Failure of this selected-pair, conservative-support comparison design; not a rejection of SQG and not evidence that the full original PJ4 dataset cannot support the comparison.",
+  "next": "Use adjacent-letter cross-pairs / a denser common mosaic, ideally from camera-corrected native images, with a geometry-aware spectral or local-derivative analysis and disjoint image groups. Reassess mask and wavelength response without tuning to SQG."
+}
