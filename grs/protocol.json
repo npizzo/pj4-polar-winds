@@ -1,0 +1,13 @@
+{
+  "selection": "All geometry-eligible overlapping pairs; same image-disjoint groups as pilot; no pair cap",
+  "seed": 20261120,
+  "tracker": "affine order=1, window=15, native samples doubled in fixed-surface chart; exact original NCC/closure/texture/condition/entropy thresholds",
+  "camera_sha256": "f128d6694314362451bc7dae0b9ad6cb003685033260dd0485ab9084f0551927",
+  "pointing": "not yet fitted; these are camera-corrected diagnostic winds",
+  "vorticity_release": "Requires image-disjoint agreement and synthetic recovery; do not infer from visual appearance",
+  "sources_sha256": {
+    "track_full.py": "084ca33753729ef7a4574bb5590428047517ea581db4361aca5bbf1e0a63ebf3",
+    "optical_flow.py": "d2ae8ff6f0a379a0fb2595b34fd59064ef765acadd7d79ebfc46e6ab1cb5bfad",
+    "pj4_global_camera.py": "a279d83a87fa081665cf36cf79d90e7394dc3dbeb45f2f140232bc2cdb90c344"
+  }
+}

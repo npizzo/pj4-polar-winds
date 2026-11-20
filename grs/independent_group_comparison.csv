@@ -1,0 +1,7 @@
+analysis_scale_km,common_core_derivative_nodes,core_nodes_A,core_nodes_B,vorticity_correlation,rms_difference_s_inverse,repeatability_screen,qualification
+300,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established
+600,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established
+900,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established
+1200,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established
+1800,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established
+2400,0,0,0,,,False,camera correction only; per-image pointing adjustment and synthetic recovery are not established

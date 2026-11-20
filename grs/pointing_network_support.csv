@@ -1,0 +1,4 @@
+group,images,pairs,blocks,network_support_pass,rule
+all,23,54,138,False,">=30 accepted patches per pair, >=10 per 48x48 chart block, >=20 images and >=60 reduced pairs; GRS latitude window replaces polar hemisphere cut"
+A,9,10,23,False,">=30 accepted patches per pair, >=10 per 48x48 chart block, >=20 images and >=60 reduced pairs; GRS latitude window replaces polar hemisphere cut"
+B,11,13,33,False,">=30 accepted patches per pair, >=10 per 48x48 chart block, >=20 images and >=60 reduced pairs; GRS latitude window replaces polar hemisphere cut"
